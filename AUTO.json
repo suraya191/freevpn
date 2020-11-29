@@ -1,0 +1,23 @@
+{
+//เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
+"Version":"1.5",
+//ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
+"Url":"https://github.com/suraya191/freevpn/raw/master/BSN.zip" ,
+"Changelog":"
+พบการอัปเดตไฟล์ 28/11/2020
+ซิม ทรู ดีแทค วันทูคอล ต้องมีโปรโมชั้น
+กลุ่ม:Best school vpn free net",
+ 
+ 
+ 
+ 
+ 
+ 
+//ไม่ต้องยุ่งด้านล่าง
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
